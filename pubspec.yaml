@@ -15,7 +15,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   intl: ^0.18.0
-  sensors_plus: ^3.0.3
+  sensors_plus: ^4.0.0
 
 dev_dependencies:
   bloc_test: ^9.1.2
